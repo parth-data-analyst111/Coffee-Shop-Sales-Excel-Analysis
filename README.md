@@ -37,6 +37,9 @@ This Excel project analyzes coffee shop sales data and presents insights through
 - Dashboard Screenshot
 
 ---
+<img width="698" height="172" alt="image" src="https://github.com/user-attachments/assets/ed816848-ea73-4a57-ae80-abf52d7aea96" />
+This the file Link of my Excel File Because my Xlsx file is big that's why I am uploading this link.So Any onces want to see my coffee
+shop sales XLSX file.
 
 ## 🚀 Author
 Parth Sakhare– Aspiring Data Analyst
